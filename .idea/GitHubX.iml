@@ -9,5 +9,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="99925ce9d7" level="application" />
   </component>
 </module>
